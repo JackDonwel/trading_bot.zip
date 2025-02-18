@@ -1,0 +1,6 @@
+requests
+pandas
+numpy
+ccxt
+alpaca-trade-api
+python-dotenv
